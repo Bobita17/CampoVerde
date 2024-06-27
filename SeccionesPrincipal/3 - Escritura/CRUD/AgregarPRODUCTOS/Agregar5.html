@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD de Inventario</title>
+    <link rel="stylesheet" href="CrudStyle.css">
+</head>
+<body>
+    <header>
+        <h1>CRUD de Inventario</h1>
+        <a href="../CP5.html" class="btn-back">Regresar</a>
+    </header>
+
+    <div class="container">
+        <div class="left-panel">
+            <h2>Agregar Producto</h2>
+            <form id="product-form">
+                <label for="img">Imagen del producto:</label>
+                <input type="file" id="img" required>
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" required>
+                <label for="brand">Marca:</label>
+                <select id="brand" required>
+                    <option value="">Selecciona una marca</option>
+                    <option value="Marca 1">Marca 1</option>
+                    <option value="Marca 2">Marca 2</option>
+                    <option value="Marca 3">Marca 3</option>
+                </select>
+                <label for="type">Tipo de Producto:</label>
+                <select id="type" required>
+                    <option value="">Selecciona un tipo</option>
+                    <option value="Tipo 1">Tipo 1</option>
+                    <option value="Tipo 2">Tipo 2</option>
+                    <option value="Tipo 3">Tipo 3</option>
+                </select>
+                <label for="quantity">Cantidad:</label>
+                <input type="number" id="quantity" required>
+                <button type="submit">Agregar Producto</button>
+            </form>
+        </div>
+
+        <div class="right-panel">
+            <h2>Inventario</h2>
+            <input type="text" id="search-input" placeholder="Buscar por nombre...">
+            <table id="product-table">
+                <thead>
+                    <tr>
+                        <th>Imágenes</th>
+                        <th>Nombre</th>
+                        <th>Marca</th>
+                        <th>Tipo</th>
+                        <th>Cantidad</th>
+                    </tr>
+                </thead>
+                <tbody id="product-list"></tbody>
+            </table>
+        </div>
+    </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 CRUD de Inventario</p>
+    </footer>
+
+    <script src="CRUDscript.js"></script>
+</body>
+</html>

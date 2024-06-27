@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almacén</title>
+    <link rel="stylesheet" href="../CSS/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1> Sección: "Área de almacenamiento temporal de productos agrícolas"</h1>
+    </header>
+
+    <main>
+        <section>
+            <center><h2>Selecione un área con un click, <br>
+                Guiese del video</h2></center>
+            <center><video width="250" autoplay loop>
+                <source src="../Img/zoo.mp4" type="video/mp4">
+                Tu navegador no soporta la etiqueta de video.
+            </video></center>
+        <div class="texto">
+            <center><p>Sillas, escritorios, estantes, 
+                y otros muebles necesarios para equipar
+                 un espacio de trabajo cómodo y eficiente.
+            </p></center>
+        </div>
+         
+        <div>
+            <a href="../AlmacenSecundario.html"> <--- Regresar a la pagina principal </a>
+        </div>
+        </section> 
+         
+        <section><div class="image-container1">
+            <img src="../Img/Lado (A).png" alt="Mapa del Almacén" width="870" height="580">
+            <div class="point" data-id="1" onclick="openWindow(1)">1</div>
+            <div class="point" data-id="2" onclick="openWindow(2)">2</div>
+            <div class="point" data-id="3" onclick="openWindow(3)">3</div>
+            <div class="point" data-id="4" onclick="openWindow(4)">4</div>
+            <div class="point" data-id="5" onclick="openWindow(5)">5</div>
+            <div class="point" data-id="6" onclick="openWindow(6)">6</div>
+            <div class="point" data-id="7" onclick="openWindow(7)">7</div>
+            <div class="point" data-id="8" onclick="openWindow(8)">8</div>
+            <div class="point" data-id="9" onclick="openWindow(9)">9</div>
+            <div class="point" data-id="10" onclick="openWindow(10)">10</div>
+            <div class="point" data-id="11" onclick="openWindow(11)">11</div>
+            <div class="point" data-id="12" onclick="openWindow(12)">12</div>
+            <div class="point" data-id="13" onclick="openWindow(13)">13</div>
+            <div class="point" data-id="14" onclick="openWindow(14)">14</div>
+            <div class="point" data-id="15" onclick="openWindow(15)">15</div>
+            <div class="point" data-id="16" onclick="openWindow(16)">16</div>
+            <div class="point" data-id="17" onclick="openWindow(17)">17</div>
+            <div class="point" data-id="18" onclick="openWindow(18)">18</div>
+            <div class="point" data-id="19" onclick="openWindow(19)">19</div>
+            <div class="point" data-id="20" onclick="openWindow(20)">20</div>
+        </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Almacén &copy; 2024</p>
+    </footer>
+
+    <script>
+        function openWindow(id) {
+            window.open(`../SeccionesSecundario/1-Almacenamiento temporal/CS${id}.html`, '_self');
+        }
+    </script>
+</body>
+</html>
+

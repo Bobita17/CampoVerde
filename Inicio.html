@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/35bf1176c2.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@500&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="CSS/Inicio diseño.css">
+    <title> Inicio de Sesión | Empleado</title>
+</head>
+<body>
+
+    <section>
+        <div class="contenedor">
+            <div class="formulario">
+                <form action="#">
+                    <h2>Iniciar Sesión</h2>
+
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-user"></i>
+                        <input type="name" required>
+                        <label for="#">Nombre de usuario</label>
+                    </div>
+
+
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-eye"></i>
+                        <input type="password" required>
+                        <label for="#">Ingresa contraseña</label>
+                        <script>
+                            var password = document.querySelector("input[type='password']");
+                            var eye = document.querySelector('.fa-solid.fa-eye')
+                            eye.addEventListener('click', function(){
+                                if(password.type == "text"){
+                                    password.setAttribute('type','password')
+                                    eye.classList.remove('fa-eye-slash');
+                                    eye.classList.add('fa-eye');
+                                }else {
+                                    password.setAttribute('type','text')
+                                    eye.classList.remove('fa-eye');
+                                    eye.classList.add('fa-eye-slash');
+                                }
+                            })
+                        </script>
+                    </div>
+
+
+                    <div class="olvidar">
+                        <label for="#">
+                        <p><a href="Constraseña Rest.html"> Olvidé la contraseña </a></p>
+                        </label>
+                    </div>
+
+                </form>
+
+                    <button><a href="Almacenes.html"> Acceder </a></button>
+                
+                     <div class="registrar">
+                        <p><a href="Registro.html"> Crear una cuenta nueva </a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

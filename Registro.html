@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/35bf1176c2.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CSS/Inicio diseño.css">
+    <title> Crear Cuenta | Empleado </title>
+</head>
+<body>
+
+    <section>
+        <div class="contenedor">
+            <div class="formulario">
+                <form action="#">
+                    <h2>Nuevo Usuario</h2>
+
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-address-card"></i>
+                        <input type="user" required>
+                        <label for="#">Usuario</label>
+                    </div>
+
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-passport"></i>
+                        <input type="identification" required>
+                        <label for="#">DNI o Pasaporte</label>
+                    </div>
+
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-phone"></i>
+                        <input type="phone" required>
+                        <label for="#">Telefono o celular</label>
+                    </div>
+
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-envelope"></i>
+                        <input type="emaill" required>
+                        <label for="#">Email</label>
+                    </div>
+                    
+                    <div class="input-contenedor">
+                        <i class="fa-solid fa-eye"></i>
+                        <input type="password" required>
+                        <label for="#"> Contraseña</label>
+                        <script>
+                            var password = document.querySelector("input[type='password']");
+                            var eye = document.querySelector('.fa-solid.fa-eye')
+                            eye.addEventListener('click', function(){
+                                if(password.type == "text"){
+                                    password.setAttribute('type','password')
+                                    eye.classList.remove('fa-eye-slash');
+                                    eye.classList.add('fa-eye');
+                                }else {
+                                    password.setAttribute('type','text')
+                                    eye.classList.remove('fa-eye');
+                                    eye.classList.add('fa-eye-slash');
+                                }
+                            })
+                        </script>
+                    </div>
+                </form>
+
+                    <button> Crear cuenta </button>
+                
+                     <div class="registrar">
+                        <p><a href="Inicio.html"> Regresar a Inicio de Sesión </a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

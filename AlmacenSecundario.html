@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almacén</title>
+    <link rel="stylesheet" href="CSS/Secundario.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1>Mapa del Almacén Secundario</h1>
+    </header>
+
+    <main>
+        <section>
+        <center><h2>Datos Importantes</h2></center>
+        <div class="texto">
+           <center><p>Menor en tamaño comparado con el almacén principal,
+             con una superficie que puede variar entre 1,000 y
+              5,000 metros cuadrados. La altura del techo suele ser de 6 a 8 metros.<br></p></center>
+        </div>
+        <div>
+            <a href="Almacenes.html"> <--- Regresar a Almacenes </a>
+        </div>
+        </section> 
+         
+        <section><div class="image-container1">
+            <img src="Img/Secu2.png" alt="Mapa del Almacén" width="700" height="580">
+            <div class="point" data-id="1" onclick="openWindow(1)">1</div>
+            <div class="point" data-id="2" onclick="openWindow(2)">2</div>
+            <div class="point" data-id="3" onclick="openWindow(3)">3</div>
+            <div class="point" data-id="4" onclick="openWindow(4)">4</div>
+        </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Almacén &copy; 2024</p>
+    </footer>
+
+    <script>
+        function openWindow(id) {
+            window.open(`Secundarios/Secundario${id}.html`, '_self');
+        }
+    </script>
+</body>
+</html>
+

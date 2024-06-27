@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambiar Estado de Productos</title>
+    <link rel="stylesheet" href="cambiar.css">
+</head>
+<body>
+    <header>
+        <h1>Cambiar Estado de Productos</h1>
+        <a href="../CP7.html" class="btn-back">Regresar</a>
+    </header>
+
+    <div class="container">
+        <div class="left-panel">
+            <h2>Cambiar Estado</h2>
+            <form id="update-status-form">
+                <label for="product-select">Selecciona un producto:</label>
+                <select id="product-select" required>
+                    <option value="">Selecciona un producto</option>
+                    <!-- Opciones se llenarán dinámicamente -->
+                </select>
+                <label for="new-status">Nuevo estado:</label>
+                <select id="new-status" required>
+                    <option value="">Selecciona un estado</option>
+                    <option value="Disponible">Disponible</option>
+                    <option value="No Disponible">No Disponible</option>
+                </select>
+                <button type="submit">Actualizar Estado</button>
+            </form>
+        </div>
+
+        <div class="right-panel">
+            <h2>Lista de Productos</h2>
+            <table id="product-table">
+                <thead>
+                    <tr>
+                        <th>Imágenes</th>
+                        <th>Nombre</th>
+                        <th>Marca</th>
+                        <th>Tipo</th>
+                        <th>Cantidad</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody id="product-list"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Cambiar Estado de Productos</p>
+    </footer>
+
+    <script src="cambiar.js"></script>
+</body>
+</html>

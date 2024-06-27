@@ -1,0 +1,186 @@
+/*Familia de Funte -> Poopins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ section{
+    display:flex;
+    justify-content: right;
+    padding-right: 80px;
+    align-items:center;
+    height:100%;
+    width: auto;
+    min-height: 100vh;
+    min-width: 100vh;
+    background:url(../Imagenes/Estrellita2.jpg)no-repeat center center/cover;
+    background-position:center;
+    background-size: cover;
+ }
+
+ .contenedor{
+    position: relative;
+    width: 400px;
+    border: 2px solid rgba(255, 255, 255, .6);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    height: 530px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .contenedor h2{
+    font-size: 2rem;
+    color:#fff;
+    text-align: center;
+ }
+
+ .input-contenedor{
+    position: relative;
+    margin: 17px 0;
+    width: 300px;
+    border-bottom: 2px solid #fff;
+ }
+
+ .input-contenedor label{
+     position: absolute;
+     top: 50%;
+     left: 5px;
+     transform: translateY(-10%);
+     color:#fff;
+     font-size: 1rem;
+     pointer-events: none;
+     transition: .6s;
+     font-weight: bold;
+ }
+ 
+ .input-contenedor2{
+    position: relative;
+    margin: 17px 0;
+    width: 300px;
+    border-bottom: 2px solid #fff;
+ }
+
+ .input-contenedor2 label{
+     position: absolute;
+     top: 50%;
+     left: 5px;
+     transform: translateY(-10%);
+     color:#fff;
+     font-size: 1rem;
+     pointer-events: none;
+     transition: .6s;
+     font-weight: bold;
+ }
+ 
+ input:focus ~ label,
+ input:valid ~ label {
+    top:-7px;
+ }
+
+ .input-contenedor input{
+    width: 100%;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    padding:-40px o 1px;
+    color: #fff;
+ }
+
+ .input-contenedor i {
+    position: absolute;
+    color: #fff;
+    font-size: 1.5rem;
+    top: 16px;
+    right: 8px;
+}
+
+.input-contenedor2 input{
+    width: 100%;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    padding:-40px o 1px;
+    color: #fff;
+ }
+
+ .input-contenedor2 i {
+    position: absolute;
+    color: #fff;
+    font-size: 1.5rem;
+    top: 16px;
+    right: 8px;
+}
+.olvidar{
+    margin: -15px 0 15px;
+    font-size: .9em;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+}
+
+.olvidar label input{
+    margin: 3px;
+}
+
+.olvidar label a{
+    color:#fff;
+    text-decoration: none;
+    transition: .3s;
+    font-size: .9em;
+}
+
+.olvidar label a:hover{
+    text-decoration: underline;
+}
+
+button{
+    width: 100%;
+    height: 45px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    outline: noce;
+    font-size: 1rem;
+    transition: .4s;
+}
+
+button:hover{
+    opacity: .9;
+}
+
+.registrar{
+    font-size: .8rem;
+    color: #fff;
+    text-align: center;
+    margin: 20px 0 10px;
+}
+
+.registrar p a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: .3s;
+}
+
+.registrar p a:hover{
+    text-decoration: underline;
+}
+
+#formularioRegistro{
+    display: flex;
+}
+
+.input-box img{
+    width: 35px ;
+    cursor: pointer;
+}

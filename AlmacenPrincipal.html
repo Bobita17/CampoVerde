@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almacén</title>
+    <link rel="stylesheet" href="CSS/Principal.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1>Mapa del Almacén Principal</h1>
+    </header>
+
+    <main>
+        <section>
+        <center><h2>Datos Importantes</h2></center>
+        <div class="texto">
+           <center><p>El almacén principal cuenta con una superficie amplia,<br>
+             generalmente entre 10,000 y 50,000 metros cuadrados, <br> dependiendo del 
+             tamaño y las necesidades de la empresa.<br> La altura del techo suele ser 
+             de unos 10 a 12 metros, lo que permite el almacenamiento en estanterías
+              altas y la <br>utilización de equipos de manejo de materiales, como montacargas y grúas.<br></p></center>
+        </div>
+        <div>
+            <a href="Almacenes.html"> <--- Regresar a Almacenes </a>
+        </div>
+        </section> 
+         
+        <section><div class="image-container1">
+            <img src="Img/Principal.png" alt="Mapa del Almacén" width="900" height="600">
+            <div class="point" data-id="1" onclick="openWindow(1)">1</div>
+            <div class="point" data-id="2" onclick="openWindow(2)">2</div>
+            <div class="point" data-id="3" onclick="openWindow(3)">3</div>
+            <div class="point" data-id="4" onclick="openWindow(4)">4</div>
+            <div class="point" data-id="5" onclick="openWindow(5)">5</div>
+            <div class="point" data-id="6" onclick="openWindow(6)">6</div>
+        </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Almacén &copy; 2024</p>
+    </footer>
+
+    <script>
+        function openWindow(id) {
+            window.open(`Principales/Principal${id}.html`, '_self');
+        }
+    </script>
+</body>
+</html>
+

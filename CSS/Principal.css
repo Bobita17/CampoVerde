@@ -1,0 +1,164 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h2{
+    color: rgb(0, 128, 53);
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.texto{
+    background-color: rgb(170, 248, 175);
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    padding: 1px;
+    border-radius: 16px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300; 
+    background-color: rgb(170, 248, 175);
+    width: 320px;
+    height: 100px;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+
+
+header, footer {
+    background-color: rgb(3, 133, 44);
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.point {
+    position: absolute;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.point[data-id="1"] {
+    top: 65%;
+    left: 64%;
+}
+
+.point[data-id="2"] {
+    top: 85%;
+    left: 64%;
+}
+
+.point[data-id="3"] {
+    top: 25%;
+    left: 88%;
+}
+
+.point[data-id="4"] {
+    top: 45%;
+    left: 88%;
+}
+
+.point[data-id="5"] {
+    top: 65%;
+    left: 88%;
+}
+
+.point[data-id="6"] {
+    top: 85%;
+    left: 88%;
+}
+
+
+.point:hover{
+    background-color: rgb(246, 129, 129);
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+}
+.image-container img {
+    display: block;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 80px;
+    padding: 15px;
+    background-color: rgb(149, 255, 172);
+}
+.button1 {
+    position: absolute;  
+    top: 38%;
+    left: 43%;
+    width: 30%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button1:hover {
+    background-color: rgba(27, 165, 87, 0.8);
+}
+.button2 {
+    position: absolute;  
+    top: 38%;
+    left: 43%;
+    width: 35%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button2:hover {
+    background-color: rgba(27, 165, 87, 0.8);
+}

@@ -1,0 +1,1561 @@
+    [
+        {
+            "id": "ManzanasR-01",
+            "titulo": "Manzanas Rojas",
+            "imagen": "./img/Frutas/ManzanasRoja.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "ManzanasV-02",
+            "titulo": "Manzanas Verdes",
+            "imagen": "./img/Frutas/ManzanasVerde.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Pera-03",
+            "titulo": "Pera",
+            "imagen": "./img/Frutas/Pera.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Piña-04",
+            "titulo": "Piña",
+            "imagen": "./img/Frutas/Piña.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Coco-05",
+            "titulo": "Coco",
+            "imagen": "./img/Frutas/Coco.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Naranjas-06",
+            "titulo": "Naranjas",
+            "imagen": "./img/Frutas/Naranjas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Mandarina-07",
+            "titulo": "Mandarina",
+            "imagen": "./img/Frutas/Mandarinas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Platanos-08",
+            "titulo": "Platanos",
+            "imagen": "./img/Frutas/Platanos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Arandanos-09",
+            "titulo": "Arandanos",
+            "imagen": "./img/Frutas/Arandanos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Frambuesas-10",
+            "titulo": "Frambuesas",
+            "imagen": "./img/Frutas/Frambuesa.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Cereza-11",
+            "titulo": "Cerezas",
+            "imagen": "./img/Frutas/Cerezas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Ciruela-12",
+            "titulo": "Ciruela",
+            "imagen": "./img/Frutas/Ciruela.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Higo-13",
+            "titulo": "Higo",
+            "imagen": "./img/Frutas/higo.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Uvas-14",
+            "titulo": "Uvas",
+            "imagen": "./img/Frutas/Uvas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Granada-15",
+            "titulo": "Granada",
+            "imagen": "./img/Frutas/Granada.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Fresas-16",
+            "titulo": "Fresas",
+            "imagen": "./img/Frutas/Fresas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Sandia-17",
+            "titulo": "Sandia",
+            "imagen": "./img/Frutas/Sandias.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Mango-18",
+            "titulo": "Mango",
+            "imagen": "./img/Frutas/Mango.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Guanabana-19",
+            "titulo": "Guanabana",
+            "imagen": "./img/Frutas/Guanabanas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Kiwi-20",
+            "titulo": "Kiwi",
+            "imagen": "./img/Frutas/Kiwi.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Lucuma-21",
+            "titulo": "Lucuma",
+            "imagen": "./img/Frutas/Lucuma.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Papaya-22",
+            "titulo": "Papaya",
+            "imagen": "./img/Frutas/Papaya.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Duraznos-23",
+            "titulo": "Duraznos",
+            "imagen": "./img/Frutas/Duraznos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Melon-24",
+            "titulo": "Melon",
+            "imagen": "./img/Frutas/Melon.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Ajos",
+            "titulo": "Ajos",
+            "imagen": "./img/Verduras/Ajos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Albahaca",
+            "titulo": "Albahaca",
+            "imagen": "./img/Verduras/Albahaca.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Alcachofas",
+            "titulo": "Alcachofas",
+            "imagen": "./img/Verduras/Alcachofas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Alverjas",
+            "titulo": "Alverjas",
+            "imagen": "./img/Verduras/Alverjas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Apios",
+            "titulo": "Apios",
+            "imagen": "./img/Verduras/Apios.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Berenjenes",
+            "titulo": "Berenjenas",
+            "imagen": "./img/Verduras/Berenjenes.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Brocoli",
+            "titulo": "Brocoli",
+            "imagen": "./img/Verduras/Brocoli.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Calabacines",
+            "titulo": "Calabacines",
+            "imagen": "./img/Verduras/Calabacines.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Cebollas",
+            "titulo": "Cebollas",
+            "imagen": "./img/Verduras/Cebollas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Choclo",
+            "titulo": "Choclo",
+            "imagen": "./img/Verduras/Choclo.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Col rizada (kale)",
+            "titulo": "Col rizada (kale)",
+            "imagen": "./img/Verduras/Col rizada (kale).webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Coles de Bruselas",
+            "titulo": "Coles de Bruselas",
+            "imagen": "./img/Verduras/Coles de Bruselas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Coliflor",
+            "titulo": "Coliflor",
+            "imagen": "./img/Verduras/Coliflor.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Culantro",
+            "titulo": "Culantro",
+            "imagen": "./img/Verduras/Culantro.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Esparragos",
+            "titulo": "Esparragos",
+            "imagen": "./img/Verduras/Esparragos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },{
+            "id": "Espinaca",
+            "titulo": "Espinaca",
+            "imagen": "./img/Verduras/Espinaca.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Jicama",
+            "titulo": "Jicama",
+            "imagen": "./img/Verduras/Jicama.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Lechuga",
+            "titulo": "Lechuga",
+            "imagen": "./img/Verduras/Lechuga.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Nabos",
+            "titulo": "Nabos",
+            "imagen": "./img/Verduras/Nabos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Papas",
+            "titulo": "Papas",
+            "imagen": "./img/Verduras/Papas.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Pepinos",
+            "titulo": "Pepinos",
+            "imagen": "./img/Verduras/Pepinos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Perejil",
+            "titulo": "Perejil",
+            "imagen": "./img/Verduras/Perejil.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Pimientos",
+            "titulo": "Pimientos",
+            "imagen": "./img/Verduras/Pimientos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Rabanos",
+            "titulo": "Rabanos",
+            "imagen": "./img/Verduras/Rabanos.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Repollo",
+            "titulo": "Repollo",
+            "imagen": "./img/Verduras/Repollo.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Tomates",
+            "titulo": "Tomates",
+            "imagen": "./img/Verduras/Tomates.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Zanahorias",
+            "titulo": "Zanahorias",
+            "imagen": "./img/Verduras/Zanahorias.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Zapallo",
+            "titulo": "Zapallo",
+            "imagen": "./img/Verduras/Zapallo.webp",
+            "categoria": {
+                "nombre": "Orgánicos",
+                "id": "Orgánicos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Pechugaspollo",
+            "titulo": "Pechugas de Pollo",
+            "imagen": "./img/Carnicos/Pechugas de Pollo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Muslospollo",
+            "titulo": "Muslos de Pollo",
+            "imagen": "./img/Carnicos/Muslos de Pollo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Nuggetspollo",
+            "titulo": "Nuggets de Pollo",
+            "imagen": "./img/Carnicos/Nuggets de Pollo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "AlitasPollo",
+            "titulo": "Alitas de Pollo",
+            "imagen": "./img/Carnicos/Alitas de Pollo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Anticuchos",
+            "titulo": "Anticuchos",
+            "imagen": "./img/Carnicos/Anticuchos.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Carnemolida",
+            "titulo": "Carne Molida de Res",
+            "imagen": "./img/Carnicos/Carne Molida de res.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Picaña",
+            "titulo": "Picaña",
+            "imagen": "./img/Carnicos/Picaña.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "FileteRes",
+            "titulo": "Filete de Res",
+            "imagen": "./img/Carnicos/Filete de Res.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "ChuletasRes",
+            "titulo": "Chuletas de Carne de Res",
+            "imagen": "./img/Carnicos/Chuletas de Carne de Res.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Jamon",
+            "titulo": "Jamon",
+            "imagen": "./img/Carnicos/Jamon.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "JamonIngles",
+            "titulo": "Jamon Ingles",
+            "imagen": "./img/Carnicos/Jamon Ingles.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "LomodeCerdo",
+            "titulo": "Lomo de Cerdo",
+            "imagen": "./img/Carnicos/Lomo de Cerdo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "CostillasCerdo",
+            "titulo": "Costillas de Cerdo",
+            "imagen": "./img/Carnicos/Costillas de Cerdo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Tocino",
+            "titulo": "Tocino",
+            "imagen": "./img/Carnicos/Tocino.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Salami",
+            "titulo": "Salami",
+            "imagen": "./img/Carnicos/Salami.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Salchicha",
+            "titulo": "Salchicha",
+            "imagen": "./img/Carnicos/Salchicha.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Chorizo",
+            "titulo": "Chorizo",
+            "imagen": "./img/Carnicos/Chorizo.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Chuletascordero",
+            "titulo": "Chuletas de Cordero",
+            "imagen": "./img/Carnicos/Chuletas de Cordero.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Costillascordero",
+            "titulo": "Costillas de Cordero",
+            "imagen": "./img/Carnicos/Costillas de Cordero.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Piernascordero",
+            "titulo": "Piernas de Cordero",
+            "imagen": "./img/Carnicos/Piernas de Cordero.webp",
+            "categoria": {
+                "nombre": "Carnes",
+                "id": "Carnes"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "LechePolvo",
+            "titulo": "Leche en Polvo",
+            "imagen": "./img/Lacteos/Leche en polvo.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheEntera",
+            "titulo": "Leche Entera",
+            "imagen": "./img/Lacteos/Leche Entera.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheDescremada",
+            "titulo": "Leche Descremada",
+            "imagen": "./img/Lacteos/Leche Descremada.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheChoco",
+            "titulo": "Leche con Chocolate",
+            "imagen": "./img/Lacteos/Leche con chocolate.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheFresa",
+            "titulo": "Leche con Fresa",
+            "imagen": "./img/Lacteos/Leche con fresa.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheAlmendra",
+            "titulo": "Leche de Almendras",
+            "imagen": "./img/Lacteos/Leche de almendras.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheAvellana",
+            "titulo": "Leche de Avellanas",
+            "imagen": "./img/Lacteos/Leche de avellana.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheAvena",
+            "titulo": "Leche de Avena",
+            "imagen": "./img/Lacteos/Leche de avena.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheCoco",
+            "titulo": "Leche de Coco",
+            "imagen": "./img/Lacteos/Leche de coco.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheArroz",
+            "titulo": "Leche de Arroz",
+            "imagen": "./img/Lacteos/Leche de arroz.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Leche",
+            "titulo": "Leche de Soya",
+            "imagen": "./img/Lacteos/Leche de soya.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheLigth",
+            "titulo": "Leche Ligth",
+            "imagen": "./img/Lacteos/Leche ligth.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "LecheSinLactosa",
+            "titulo": "Leche sin Lactosa",
+            "imagen": "./img/Lacteos/Leche sin Lactosa.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "CremaLeche",
+            "titulo": "Crema de Leche",
+            "imagen": "./img/Lacteos/Crema de Leche.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "CremaAgria",
+            "titulo": "Crema Agria",
+            "imagen": "./img/Lacteos/Crema Agria.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "MantequillaSal",
+            "titulo": "Mantequilla con Sal",
+            "imagen": "./img/Lacteos/Mantequilla con sal.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "MantequillaSinSal",
+            "titulo": "Mantequilla sin Sal",
+            "imagen": "./img/Lacteos/Mantequilla sin sal.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "QuesoFresco",
+            "titulo": "Queso Fresco",
+            "imagen": "./img/Lacteos/Queso Fresco.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "QuesoCheddar",
+            "titulo": "Queso Cheddar",
+            "imagen": "./img/Lacteos/Queso Cheddar.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "QuesoMozzarella",
+            "titulo": "Queso Mozzarella",
+            "imagen": "./img/Lacteos/Queso Mozzarella.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Natural",
+            "titulo": "Yogurt Natural",
+            "imagen": "./img/Lacteos/Yogurts/Yogur Natural.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Griego",
+            "titulo": "Yogurt Griego",
+            "imagen": "./img/Lacteos/Yogurts/Yogur Griego.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "SinLactosa",
+            "titulo": "Yogurt Sin Lactosa",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt sin Lactosa.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Proteico",
+            "titulo": "Yogurt Proteico",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt Proteico.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Vainilla",
+            "titulo": "Yogurt de Vainilla",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Vainilla.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Miel",
+            "titulo": "Yogurt de Miel con Frutos Secos",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Miel con Frutos Secos.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Frutis",
+            "titulo": "Yogurt con Trozos de Frutas",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt con Frutas.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Chocolate",
+            "titulo": "Yogurt de Chocolate",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Chocolate.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "ManzanasR-01",
+            "titulo": "Yogurt de Manzanas Rojas",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Manzana.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "ManzanasV-02",
+            "titulo": "Yogurt de Manzanas Verdes",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt manzana verde.webp",    
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Pera-03",
+            "titulo": "Yogurt de Pera",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de pera.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Piña-04",
+            "titulo": "Yogurt de Piña",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Piña.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Coco-05",
+            "titulo": "Yogurt de Coco",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Coco.webp",       
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 5
+        },
+        {
+            "id": "Naranjas-06",
+            "titulo": "Yogurt de Naranja",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Naranja.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Mandarina-07",
+            "titulo": "Yogurt de Mandarina",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Mandarina.webp",        
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Platanos-08",
+            "titulo": "Yogurt de Platano",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Platano.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Arandanos-09",
+            "titulo": "Yogurt de Arandanos",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Arándanos.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Frambuesas-10",
+            "titulo": "Yogurt de Frambuesas",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Frambuesa.webp",       
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Cereza-11",
+            "titulo": "Yogurt de Cerezas",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Cereza.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Ciruela-12",
+            "titulo": "Yogurt de Ciruela",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Ciruela.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Higo-13",
+            "titulo": "Yogurt de Higo",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Higo.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Uvas-14",
+            "titulo": "Yogurt de Uvas",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Uvas.webp",        
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Granada-15",
+            "titulo": "Yogurt de Granada",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Granada.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 4
+        },
+        {
+            "id": "Fresas-16",
+            "titulo": "Yogurt de Fresas",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Fresa.webp",        
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Sandia-17",
+            "titulo": "Yogurt de Sandia",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Sandia.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Mango-18",
+            "titulo": "Yogurt de Mango",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Mango.webp",        
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Guanabana-19",
+            "titulo": "Yogurt de Guanabana",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Guanábana.jpg",        
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Kiwi-20",
+            "titulo": "Yogurt de Kiwi",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Kiwi.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Lucuma-21",
+            "titulo": "Yogurt de Lucuma",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Lucuma.webp",        
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Papaya-22",
+            "titulo": "Yogurt de Papaya",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Papaya.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Duraznos-23",
+            "titulo": "Yogurt de Duraznos",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Duraznos.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Melon-24",
+            "titulo": "Yogurt de Melon",
+            "imagen": "./img/Lacteos/Yogurts/Yogurt de Melon.webp",
+            "categoria": {
+                "nombre": "Lácteos",
+                "id": "Lácteos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Arroz",
+            "titulo": "Arroz",
+            "imagen": "./img/Menestras/Arroz.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Cañihua",
+            "titulo": "Cañihua",
+            "imagen": "./img/Menestras/Cañihua.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol Bayo",
+            "titulo": "Frejol Bayo",
+            "imagen": "./img/Menestras/Frejol Bayo.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol caballero",
+            "titulo": "Frejol Caballero",
+            "imagen": "./img/Menestras/Frejol caballero.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol caballito",
+            "titulo": "Frejol Caballito",
+            "imagen": "./img/Menestras/Frejol caballito.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol canario",
+            "titulo": "Frejol Canario",
+            "imagen": "./img/Menestras/Frejol canario.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol castilla",
+            "titulo": "Frejol Castilla",
+            "imagen": "./img/Menestras/Frejol castilla.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol colado",
+            "titulo": "Frejol colado",
+            "imagen": "./img/Menestras/Frejol colado.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol mayocoba",
+            "titulo": "Frejol Mayocoba",
+            "imagen": "./img/Menestras/Frejol mayocoba.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol pallar",
+            "titulo": "Frejol Pallar",
+            "imagen": "./img/Menestras/Frejol pallar.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol panamito",
+            "titulo": "Frejol Panamito",
+            "imagen": "./img/Menestras/Frejol panamito.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol Tarwi (chocho)",
+            "titulo": "Frejol Tarwi (chocho)",
+            "imagen": "./img/Menestras/Frejol Tarwi (chocho).webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frejol zarandaja",
+            "titulo": "Frejol Zarandaja",
+            "imagen": "./img/Menestras/Frejol zarandaja.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frijol de palo",
+            "titulo": "Frijol de Palo",
+            "imagen": "./img/Menestras/Frijol de palo.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Frijoles",
+            "titulo": "Frijoles",
+            "imagen": "./img/Menestras/Frijoles.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Garbanzos",
+            "titulo": "Garbanzos",
+            "imagen": "./img/Menestras/Garbanzos.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Kiwicha",
+            "titulo": "Kiwicha",
+            "imagen": "./img/Menestras/Kiwicha.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Lentejas",
+            "titulo": "Lentejas",
+            "imagen": "./img/Menestras/Lentejas.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Pallares",
+            "titulo": "Pallares",
+            "imagen": "./img/Menestras/Pallares.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Chocolate",
+            "titulo": "Chocolate",
+            "imagen": "./img/Snaks/Chocolate.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Chispas Chocolate",
+            "titulo": "Chispas de Chocolate",
+            "imagen": "./img/Snaks/Chispas de chocolate.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Chocolate Blanco",
+            "titulo": "Chocolate Blanco",
+            "imagen": "./img/Snaks/Chocolate blanco.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Coco dulce",
+            "titulo": "Coco Dulce",
+            "imagen": "./img/Snaks/Coco dulce.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Coco deshidratado",
+            "titulo": "Coco deshidratado",
+            "imagen": "./img/Snaks/Coco Deshidratado.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Coco rallado",
+            "titulo": "Coco rallado",
+            "imagen": "./img/Snaks/Coco rallado.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Chía",
+            "titulo": "Chía",
+            "imagen": "./img/Snaks/Chia.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Mani",
+            "titulo": "Mani",
+            "imagen": "./img/Snaks/Maní.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Almendras",
+            "titulo": "Almendras",
+            "imagen": "./img/Snaks/Almendras.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Caju",
+            "titulo": "Caju",
+            "imagen": "./img/Snaks/Anacardos (nueces de la India).webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Avellanas",
+            "titulo": "Avellanas",
+            "imagen": "./img/Snaks/Avellanas.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Castañas",
+            "titulo": "Castañas",
+            "imagen": "./img/Snaks/Castañas.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        },
+        {
+            "id": "Quinua",
+            "titulo": "Quinua",
+            "imagen": "./img/Menestras/Quinua.webp",
+            "categoria": {
+                "nombre": "Alimentos no perecederos",
+                "id": "Alimentos no perecederos"
+            },
+            "precio": 1000
+        }
+    ]
